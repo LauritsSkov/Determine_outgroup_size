@@ -15,4 +15,4 @@ python outgroup_efficientcy_github.py -outgroup_size=50 -chrom_size=10000 -itera
 
 ```
 
-The script will make a plot showing the demography you provided and how many of the non private SNPs were removed (closer to 100% the better)
+The script will make a plot showing the demography you provided and how many of the non private SNPs were removed (closer to 100% the better). It also shows the emission parameter so you can compare with your own data.
